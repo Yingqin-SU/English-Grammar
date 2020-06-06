@@ -33,7 +33,7 @@
 &emsp; 这些组成部分的英文不需要刻意去记，只要了解一下就可以了。  
 &emsp; 需要记住的是这些 ‘语’ 的成分。
 
-![](https://github.com/Yingqin-SU/English-Grammar/tree/master/Images/jdjcf.png)
+![image](https://github.com/Yingqin-SU/English-Grammar/tree/master/Images/jdjcf.png)
 
 
 ### 简单句有五大句型:
