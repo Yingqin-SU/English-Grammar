@@ -33,8 +33,11 @@
 &emsp; 这些组成部分的英文不需要刻意去记，只要了解一下就可以了。  
 &emsp; 需要记住的是这些 ‘语’ 的成分。
 
+</br>
 
-<img src="https://github.com/Yingqin-SU/English-Grammar/blob/master/Images/jdjcf.png" width="700" alt="note"/>
+![简单句成分](./Images/简单句成分.png)
+
+</br>
 
 ### 简单句有五大句型:
 
@@ -43,6 +46,10 @@
 * S + V + O + O
 * S + V + C
 * S + V + O + C
+
+</br>
+
+![五大句型](./Images/5大句型.png)
 
 
 ## 复合句
