@@ -30,8 +30,10 @@
 * 状语 ( Adverbial )
 * 补语 ( Complement )
 
-&emsp; 英文不需要刻意去记，只要了解一下就可以了。  
+&emsp; 这些组成部分的英文不需要刻意去记，只要了解一下就可以了。  
 &emsp; 需要记住的是这些 ‘语’ 的成分。
+
+![](https://github.com/Yingqin-SU/English-Grammar/tree/master/Images/简单句成分.png)
 
 
 ### 简单句有五大句型:
