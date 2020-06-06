@@ -67,3 +67,8 @@
 以下就是一个名词从句简化的例子。
 
 ![名词从句简化案例](./Images/简化从句.png)
+
+</br>
+
+>以上的内容均来源于
+>>[昂克英文君](https://space.bilibili.com/286263737/video?tid=0&page=1&keyword=&order=pubdate)
